@@ -1,4 +1,4 @@
-This Privacy Policy discloses the privacy practices for the SELF GROWTH application (collectively, the “application” located at App Store, Google Play). SELF GROWTH the provider of the Application (referred to as “us” or “we”), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the “User” or the “End User”) and how we use that information. If you have any questions about our privacy policy, please email us.
+This Privacy Policy discloses the privacy practices for the SCHOOL ON AIR application (collectively, the “application” located at App Store, Google Play). SCHOOL ON AIR the provider of the Application (referred to as “us” or “we”), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the “User” or the “End User”) and how we use that information. If you have any questions about our privacy policy, please email us.
 
 Please read this privacy policy carefully. By accessing or using our application, you acknowledge that you have read, understand, and agree to be bound to all the terms of this privacy policy and our application terms of use. If you do not agree to these terms, exit this application and do not access or use the application.
 
@@ -22,11 +22,14 @@ We may share your information in a Business Transfer . As with any other busines
 
 We may share your information for our Protection and the Protection of Others . We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Application; enforce or apply this Privacy Policy, our Application Terms of Use or other agreements; or protect the rights, property or safety of the Application, its Users or others.
 
+While using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:
+
+Pictures and other information from your Device's camera and photo library
+We use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device.
+
+You can enable or disable access to this information at any time, through Your Device settings.
+
 Release of Non-Personally Identifiable Information We may disclose or share Non-Personally Identifiable Information with Partners, Affiliates and Advertisers. For example, we may share aggregated demographic information (which does not include any Personally Identifiable Information) with “Third Party Advertisers” or “Third Party Advertising Companies” and other parties as provided below:
-
-We use Third Party Advertising Companies to serve ads when you use our Application. These companies may use Non-Personally Identifiable Information about your visits to this and other application in order to provide, through the use of network tags, advertisements about goods and services that may be of interest to you. Some of these Third Party Advertising Companies may be advertising networks that Admob. If you would like more information about any Admob Google company, or you would like to opt-out of targeted advertising from any Admob company, click here:
-
-https://apps.admob.com
 
 We also use Third Party Service Providers to track and analyse Non-Personally Identifiable usage and volume statistical information from our Users to administer our application and constantly improve its quality. We may also publish this information for promotional purposes or as a representative audience for Advertisers. Please note that this is not Personally Identifiable Information, only general summaries of the activities of our Users. Such data is collected on our behalf, and is owned and used by us.
 
@@ -42,16 +45,12 @@ Unfortunately, no data transmission over the Internet or any wireless network ca
 
 Data Tracking Tracking Devices . We may use other industry standard technologies like Firebase Analytic to track your use of our Application, or we may allow our Third Party Service Providers to use these devices on our behalf.
 
-Privacy Policies of Third Party Application This Privacy Policy only addresses the use and disclosure of information we collect from you on SELF GROWTH or https://aibles.com/. Other websites that may be accessible through this Website have their own privacy policies and data collection, use and disclosure practices. If you link to any such website, we urge you review the website’s privacy policy. We are not responsible for the policies or practices of third parties.
+Privacy Policies of Third Party Application This Privacy Policy only addresses the use and disclosure of information we collect from you on SCHOOL ON AIR. Other websites that may be accessible through this Website have their own privacy policies and data collection, use and disclosure practices. If you link to any such website, we urge you review the website’s privacy policy. We are not responsible for the policies or practices of third parties.
 
 Children . We do not knowingly collect personal information from anyone under the age of 6, and no part of the Application is designed to attract anyone under the age of 6. Extra Download does not support download file for children.
 
-Facebook Connect . SELF GROWTH allows users to access Facebook Connect to interact with friends and to share on Facebook through Wall and friends’ News Feeds. If you are logged into SELF GROWTH and Facebook, when you click on “Connect with Facebook” your profiles will merge if the email addresses match.
+Facebook Connect . SCHOOL ON AIR allows users to access Facebook Connect to interact with friends and to share on Facebook through Wall and friends’ News Feeds. If you are logged into SCHOOL ON AIR and Facebook, when you click on “Connect with Facebook” your profiles will merge if the email addresses match.
 
-Contacting Us Whether you’re a new or loyal customer we’d like to stay connected and want to hear from you!
+If you have any questions about this Privacy Policy, You can contact us:
 
-Corporate Address
-
-SELF GROWTH Attn: Copyright Agent TSQ Building Mo Lao - Ha Dong.
-
-Hanoi City, Vietnam.
+By email: linhvnguyen9@gmail.com
